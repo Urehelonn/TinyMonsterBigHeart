@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9275fcce9ebd1eb4d81a31c4cb20210e, type: 3}
+  m_Name: Nano
+  m_EditorClassIdentifier: 
+  monsterName: Nano
+  gender: 1
+  belief: 1
+  personalities:
+  - {fileID: 11400000, guid: 4036a32acd6fa6d46a473690a4524f47, type: 2}
+  talents:
+  - {fileID: 11400000, guid: 7eae9aeea658be14ba7938f9f9f4e4ed, type: 2}
+  strength: 4
+  agility: 3
+  looking: 9
+  family:
+    aFamily:
+    - {fileID: 11400000, guid: bd9792353bf3b854e8d6e9c957b20a33, type: 2}
+    - {fileID: 11400000, guid: ac68719a8fd8c5c4aad39c64fe457a4c, type: 2}
+    - {fileID: 11400000, guid: efcf05b43e2bee8409ed685a350c2f08, type: 2}
+    fName: Sandfur
+    fNum: 7
+    description: The family that lives underground.
+  backpack: []
+  passedEvents: 
+  missedEvents: 
+  time:
+    year: 0
+    month: 0
+    day: 0
+    hour: 0
+  fishing: 
+  hunting: 
+  rsrData: []
+  monsterColour: {r: 0.7685212, g: 0.09094691, b: 0.42180687, a: 1}

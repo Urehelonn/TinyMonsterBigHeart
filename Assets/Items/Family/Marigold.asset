@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eeb97c77649565f44807a32eaa5dc07d, type: 3}
+  m_Name: Marigold
+  m_EditorClassIdentifier: 
+  nCode: 81
+  nName: Marigold
+  gender: 1
+  genderOrientation: 37
+  looking: 10
+  nPersonalities:
+  - {fileID: 11400000, guid: ab35ebed92bca2246921dff9a3aa1694, type: 2}
+  nTalents:
+  - {fileID: 11400000, guid: 264e8a17006ad5a4fa13b04db05f0bad, type: 2}
+  ifRomance: 0

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eeb97c77649565f44807a32eaa5dc07d, type: 3}
+  m_Name: Jude
+  m_EditorClassIdentifier: 
+  nCode: 30
+  nName: Jude
+  gender: 2
+  genderOrientation: 88
+  looking: 7
+  nPersonalities:
+  - {fileID: 11400000, guid: cf1cfad3452af9c4e93b0a89b29b16df, type: 2}
+  - {fileID: 11400000, guid: 81910f449175cb5408e2e17de32ead33, type: 2}
+  - {fileID: 11400000, guid: 2cb8e22c7f45a6c46ad05f3d28dcfc1e, type: 2}
+  - {fileID: 11400000, guid: 77846aa3965944f4492610639362808f, type: 2}
+  nTalents:
+  - {fileID: 11400000, guid: 264e8a17006ad5a4fa13b04db05f0bad, type: 2}
+  - {fileID: 11400000, guid: 0f7c840756f2f58479a7e069d4cf1f1e, type: 2}
+  ifRomance: 0

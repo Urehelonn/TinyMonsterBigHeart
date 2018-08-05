@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ee44806722c417478ce62ee4591e53c, type: 3}
+  m_Name: Goblin
+  m_EditorClassIdentifier: 
+  monsterName: Goblin Wanderer
+  dropList:
+  - item: {fileID: 11400000, guid: d13f7a574fc9786428ea993d2f844782, type: 2}
+    rate: 0.3
+  - item: {fileID: 11400000, guid: 77b480b26b27d21469c0a0997004a87a, type: 2}
+    rate: 20
+  - item: {fileID: 11400000, guid: 89756405e960bac42b86ea5a95b529f7, type: 2}
+    rate: 70
+  - item: {fileID: 11400000, guid: a5242ab37cc8f91499bb716c39900723, type: 2}
+    rate: 100
+  monsterCode: 0
